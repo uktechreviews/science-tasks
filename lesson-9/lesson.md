@@ -50,6 +50,10 @@ From LXTerminal type: `sudo python3 respiration.py` 
 
 1. Setup the apparatus to measure the temperature and humidity.  You will need a large zip-lock sandwich bag and a clean and new drinking straw, the jumbo ones from IKEA work well. Ensure that the sandwich bag is dry. Place the Raspberry Pi with Sense Hat into the sandwich bag. Zip the sandwich bag as close as you can get it but still allowing room for the power, keyboard and HDMI cables. Place a drinking straw into the bag next to the cables.
 
+![Setting up](images/resp1.jpg)
+
+![Setting up](images/resp2.jpg)
+
 ##Carrying out the experiment
 
 1. Select a student to carry out the exercise.  If you plan on repeating the experiment several times please ensure you use a clean and dry bag and straw each time. Ensure you have enough room for the student to jog on the spot for 10 seconds.
