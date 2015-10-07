@@ -63,19 +63,25 @@ From LXTerminal type: `sudo python3 rates.py`?
 
 ##Analysis of the results
 
-- bullet points
+- Using a suitable spreadsheet package open the files created during the experiments.  Students will have generated one file per experiment.
+- For each trial the following information is recorded: concentration of hydrochloric acid, temperature and time taken for the cross to disappear.
+- Using the data for each trial students can calculate the average temperature (if needed) and the average time taken.
+- Once this process has been completed for all of the experiments student will have a set of reaction times (dependent variable) and either average temperature or concentration.  Students can then use these results to plot a graph of the reaction time against the dependent variable.
 
 
-##Plenary?
+##Plenary
 
-Ask students 
+Ask students to identify the trend in the results.  As the independent variable was changed what happened to the time taken for the cross to dissapper? What conclusions can be written about how the independent variable affected the rate of reaction?
+
 
 ##Extension
 
-- bullet list
+- Students can calculate the rate of reaction by using the calculation rate = 1/time taken and plot this against the independent variable.
 
 ##Risk assessment
 
 In addition to the points below a full risk assessment should be carried out by institution using this experiment.
 
-- bullet list
+- Hydrochloric acid (up to 2M)
+- Sodium Thiosulphate (1M)
+- Evolution of sulphur 

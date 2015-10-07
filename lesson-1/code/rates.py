@@ -27,7 +27,7 @@ o,o,o,o,o,o,o,o
 
 sense.clear(255,0,0)
 
-concentration = float(input("Concentration of sodium thiosulphate: "))
+concentration = float(input("Concentration of hydrochloric acid: "))
 data = float(input("How many repeats do you want?: "))
 file_name = input("File name for results ")
 message1 = input("Press the button when you are ready to record the first result")
