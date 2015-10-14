@@ -54,16 +54,18 @@ From LXTerminal type: `sudo python3 respiration.py` 
 
 1. Select a student to carry out the exercise.  If you plan on repeating the experiment several times please ensure you use a clean and dry bag and straw each time. Ensure you have enough room for the student to jog on the spot for 10 seconds.
 
+![set_up](images/respiration_1.png)
+![get_ready](images/respiration_2.png)
+
 1. Once the student is ready press the button on the Sense Hat.
 
 - The LED matrix will turn blue
-![set_up](images/respiration_1.png)
-![get_ready](images/respiration_2.png)
-- Blow into the straw until it turns yellow
 ![blow](images/respiration_3.png)
+- Blow into the straw until it turns yellow
+![stop_blowing](images/respiration_4.png)
 - Jump on the spot 
 - As soon as the LED turns blue again blow into the straw until it goes off
-![stop_blowing](images/respiration_1.png)
+![stop_blowing](images/respiration_5.png)
 
 ##Analysis of the results
 
