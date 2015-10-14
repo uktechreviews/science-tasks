@@ -57,9 +57,13 @@ From LXTerminal type: `sudo python3 respiration.py` 
 1. Once the student is ready press the button on the Sense Hat.
 
 - The LED matrix will turn blue
+![set_up](images/respiration1.png)
+![get_ready](images/respiration2.png)
 - Blow into the straw until it turns yellow
+![blow](images/respiration3.png)
 - Jump on the spot 
 - As soon as the LED turns blue again blow into the straw until it goes off
+![stop_blowing](images/respiration1.png)
 
 ##Analysis of the results
 
