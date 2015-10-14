@@ -58,8 +58,8 @@ In this lesson students will investigate the
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
 
-![black_paper](images/surfaces1.png)
-![silver_foil](images/surfaces3.png)
+![surfaces1](images/surfaces1.png)
+![surfaces3](images/surfaces3.png)
 
 ##Analysis of the results
 
