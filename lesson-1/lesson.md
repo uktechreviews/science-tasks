@@ -61,6 +61,15 @@ From LXTerminal type: `sudo python3 rates.py`?
 1. Repeat until all your repeats are completed and you get a message saying the experiment is completed.
 1. Depending on which variable you are investigating you should now repeat the steps again by changing the independent variable.
 
+![apparatus](images/rates_1.png)
+![adding_thio](images/rates_2.png)
+![measuring_HCl](images/rates_4.png)
+![chemicals_added](images/rates_13.png)
+![timer_started](images/rates_14.png)
+![reaction_started](images/rates_15.png)
+![disappearing_cross](images/rates_18.png)
+![reaction_over](images/rates_20.png)
+
 ##Analysis of the results
 
 - Using a suitable spreadsheet package open the files created during the experiments.  Students will have generated one file per experiment.
