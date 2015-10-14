@@ -58,6 +58,9 @@ In this lesson students will investigate the
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
 
+![black_paper](images/surfaces1.png)
+![silver_foil](images/surfaces3.png)
+
 ##Analysis of the results
 
 - Once the results have been saved the file can be accessed by importing into a spreadsheet or by printing out the raw data file.
@@ -80,3 +83,4 @@ In addition to the points below a full risk assessment should be carried out by 
 - The heating of paper with the filament lamp can potentially cause a fire risk
 - Once the experiment is over switch off the lamp to remove the heat source from the Raspberry Pi
 - The lamp should be kept a minimum of 30cm from the Raspberry Pi
+- When wrapping the Sense Hat and Raspberry Pi in silver foil it is important to prevent a short circuit by wrapping the Pi in a non-conductive material such as clingfilm.
