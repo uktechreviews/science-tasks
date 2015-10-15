@@ -45,6 +45,6 @@ Instructions using Google Sheets
 
 1. You will now have a finished chart which you can now use to write a conclusion identifying which material warmed up the quickest and was the best at absorbing IR radiation.
 
-![chart2](images/final_chart.png)
+![chart2](images/final_graph.png)
 
 
