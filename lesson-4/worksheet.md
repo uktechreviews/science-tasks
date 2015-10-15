@@ -22,28 +22,28 @@ Using a suitable spreadsheet import both sets of data and produce a line graph c
 
 Instructions using Google Sheets
 
-1. Log into Google Sheets and start a new sheet
+- Log into Google Sheets and start a new sheet
 
 ![spread_sheet](images/spread_sheet.png)
 
-1. Import the first set of results. The pipe symbol | has been used to separate each column of results.
+- Import the first set of results. The pipe symbol | has been used to separate each column of results.
 
 ![import1](images/import.png)
 
-1. Import the second set of results and again use the pipe symbol | to separate each column of results.  This time append the rows to the current sheet.
+- Import the second set of results and again use the pipe symbol | to separate each column of results.  This time append the rows to the current sheet.
 
 ![import2](images/import2.png)
 
-1. You will now have two sets of results on the same sheet.  Copy and paste the second set of results and tidy up the column heading and remove rows no longer needed.
+- You will now have two sets of results on the same sheet.  Copy and paste the second set of results and tidy up the column heading and remove rows no longer needed.
 
 ![results1](images/results.png)
 ![results2](images/new_results.png)
 
-1. Highlight both sets of results and the time and select new chart
+- Highlight both sets of results and the time and select new chart
 
 ![chart](images/chart.png)
 
-1. You will now have a finished chart which you can now use to write a conclusion identifying which material warmed up the quickest and was the best at absorbing IR radiation.
+- You will now have a finished chart which you can now use to write a conclusion identifying which material warmed up the quickest and was the best at absorbing IR radiation.
 
 ![chart2](images/final_graph.png)
 

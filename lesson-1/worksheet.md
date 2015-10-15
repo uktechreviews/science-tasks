@@ -30,9 +30,32 @@ Before starting the experiment you will need to decide if you will be investigat
 1. Repeat until all your repeats are completed and you get a message saying the experiment is completed.
 1. Depending on which variable you are investigating you should now repeat the steps again by changing the independent variable.
 
+##Analysing results
 
-##Extension
+sing a suitable spreadsheet import both sets of data and produce a line graph comparing both sets of results.  
 
-Students can calculate the rate of reaction by using the calculation rate = 1/time taken and plot this against the independent variable.
+Instructions using Google Sheets
 
+- Log into Google Sheets and start a new sheet
+
+![spread_sheet](images/spread_sheet.png)
+
+- Import your results. The pipe symbol | has been used to separate each column of results.
+
+![import1](images/import.png)
+
+![results](images/results.png)
+
+- You will now need to tidy up your results by adding column heading
+
+![tidy_results](images/neat_results.png)
+
+- Using the average function to calculate the average temperature and time taken
+
+![average_time](images/average.png)
+![average_temp](images/average_temp.png)
+
+- You will now have a final set of results for tha particular temperature and concentration investigated.
+
+![final_result](images/final_result.png)
 
