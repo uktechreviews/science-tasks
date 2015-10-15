@@ -16,12 +16,35 @@ Different colour surfaces absorb different amounts of Infra Red radiation.  Duri
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
 
-Plot a graph of temperature against time for the both set of results.  Which material absorbed the most infra red radiation? 
-
 ##Extension
 
-Task
+Using a suitable spreadsheet import both sets of data and produce a line graph comparing both sets of results.  
 
--
+Instructions using Google Sheets
+
+1. Log into Google Sheets and start a new sheet
+
+![spread_sheet](images/spread_sheet.png)
+
+1. Import the first set of results. The pipe symbol | has been used to separate each column of results.
+
+![import1](images/import.png)
+
+1. Import the second set of results and again use the pipe symbol | to separate each column of results.  This time append the rows to the current sheet.
+
+![import2](images/import2.png)
+
+1. You will now have two sets of results on the same sheet.  Copy and paste the second set of results and tidy up the column heading and remove rows no longer needed.
+
+![results1](images/results.png)
+![results2](images/new_results.png)
+
+1. Highlight both sets of results and the time and select new chart
+
+![chart](images/chart.png)
+
+1. You will now have a finished chart which you can now use to write a conclusion identifying which material warmed up the quickest and was the best at absorbing IR radiation.
+
+![chart2](images/final_chart.png)
 
 
