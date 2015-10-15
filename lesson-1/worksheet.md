@@ -1,4 +1,4 @@
-#Investigating 
+#Investigating Rates of Chemical Reactions
 
 In this lesson you’re going to investigate how temperature and concentration affect the rate of reaction between sodium thiosulphate and hydrochloric acid.
 
