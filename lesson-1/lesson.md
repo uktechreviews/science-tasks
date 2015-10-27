@@ -51,6 +51,8 @@ In this lesson students will investigate the factors that affect the rate of che
 
 1. Prepare a 1.0M solution of sodium thiosulphate and a 0.5,  1.0, 1.5 and 2.0M solution of hydrochloric acid. 
 1. If the students are going to investigate temperature they will need three water baths and a range of temperatures.
+1. Measure 20ml of sodium thiosulphate into a measuring cylinder. 
+1. Measure 20ml of hydrochloric acid into a second measuring cylinder.
 1. Run the python code and enter the concentration of the sodium thiosulphate solution.
 1. Enter the number of repeats you would like to do for this experiment.
 1. Enter a file name for this set of experiments.
