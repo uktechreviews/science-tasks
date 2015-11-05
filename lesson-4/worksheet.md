@@ -1,4 +1,4 @@
-#Investigating absorption of IR
+#Investigating absorption of IR by different coloured surfaces
 
 In this lesson you are going to investigate how the colour of a surface affects the absorption of IR radiation.
 
