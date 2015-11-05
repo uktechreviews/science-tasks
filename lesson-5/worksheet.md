@@ -13,6 +13,8 @@ Different colour surfaces emit different amounts of Infra Red radiation.  During
 1. Wrap the Raspberry Pi in a material to keep the baby warm.
 1. Start the code and enter a suitable filename for the results.
 1. Enter the number of results required and the interval between each measurement.
+1. Allow the Raspberry Pi and Sense Hat to warm up for approximately 10 minutes
+1. When instructed remove the heat source and rewrap the Pi
 1. Leave the Raspberry Pi and Sense Hat to cool down.
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Repeat with a range of different materials.  Start with a fresh hot water bottle each time.
