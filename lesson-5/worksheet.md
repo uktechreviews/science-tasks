@@ -19,6 +19,9 @@ Different colour surfaces emit different amounts of Infra Red radiation.  During
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Repeat with a range of different materials.  Start with a fresh hot water bottle each time.
 
+![Setting up the hot water bottle](images/hot1.png)
+![Use the hot water bottle to warm up the Raspberry Pi](images/hot2.png)
+![Remove the hot water bottle and wrap it in a blanket to cool down](images/hot3.png)
 
 ##Extension
 
