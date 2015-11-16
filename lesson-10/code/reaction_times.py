@@ -1,4 +1,4 @@
-#Investigating Reaction times on the motorway
+#Investigating stopping distances of cars
 #Spencer Organ - KESH Academy
 
 
