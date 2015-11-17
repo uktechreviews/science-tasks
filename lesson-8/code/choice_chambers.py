@@ -29,10 +29,12 @@ def illuminate_matrix(a,b,c,d):
     sense.set_pixels(matrix)
 
 def take_photo(number):
-    time.sleep(20)
+    time.sleep(30)
     with PiCamera() as camera:
         camera.start_preview()
         camera.capture('choice%s.jpg'%(number))
+        timme.sleep(5)
+        camera.capture('second_choice%s.jpg'%(number))
         camera.stop_preview()
     sense.clear(black)
 
