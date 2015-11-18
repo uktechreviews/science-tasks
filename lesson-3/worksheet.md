@@ -1,4 +1,4 @@
-#Investigating Heat transfer by radiation
+#Black and Silver cans (Investigating Heat transfer by radiation)
 
 In this lesson you are going to investigate how the colour of a surface affects the emitting of IR radiation.
 

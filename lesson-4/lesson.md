@@ -1,6 +1,6 @@
-#Black and Silver cans
+#Black and Silver cans (absorption of IR)
 
-In this lesson students will investigate the 
+In this lesson students will investigate how different colour surfaces affect the absorption of IR
 
 ##Learning objectives
 
