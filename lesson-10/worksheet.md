@@ -23,6 +23,34 @@ In this experiment you will measure the time it taskes to react to a stimulus an
 - Make a note of how quick your time was and how far you would have travelled.
 - Are you surprised about how far you travelled in that time period?
 
+##Analysing results
+
+sing a suitable spreadsheet import both sets of data and produce a bar chart graph comparing the results from the class.  
+
+Instructions using Google Sheets
+
+- Log into Google Sheets and start a new sheet
+
+![spread_sheet](images/spread_sheet.png)
+
+- Import your results. The pipe symbol | has been used to separate each column of results.
+
+![import](images/import.png)
+![importing](images/custom_character.png)
+![imported](images/imported.png)
+
+- You will now need to tidy up your results by adding column heading
+
+![tidy_results](images/headers.png)
+
+- Highlight the name, reaction time and distance columns and insert a new chart
+
+![add_chart](images/chart.png)
+
+- Select a suitable bar chart and add it to you document.
+
+![graph](images/graph.png)
+
 ##Extension
 
 - The same program can be used to investigate different factors that might affect your stopping distance.
