@@ -31,6 +31,3 @@ Woodlice and maggots (KS3 and 4)
 - add diagram and photos
 - add example data and charts
 - update risk assessment
-
-Investigating stopping distances of cars (KS4)
-- add example data and charts

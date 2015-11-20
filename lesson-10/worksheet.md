@@ -57,9 +57,10 @@ Instructions using Google Sheets
 - Run the program again and enter the number of attempts you would like to investigate.
 - Instead of entering a student name enter a description of your distraction.
 - Some distractions could include:
+
 - having a conversation with a friend as you carry out the test
-- try it at the end of a school day when you are tired
+- do it at the end of a school day when you are tired
 - try sending a text with the other hand at the same time
 - try listening to loud / fast / quiet music
-- try reading from a sheet of paper
+- try reading from a sheet of paper or looking at a map
 
