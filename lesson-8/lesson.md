@@ -30,6 +30,7 @@ In this lesson we will investigate what colour habitats are preferred by differe
 ##Starter
 
 - Hold a short class discussion on the use of animals and insects in science experiments.  Identify a common set of rules that everyone should follow when using live insects during experiments.
+- Involve pupils in the process of agreeing any precautions for the activity and discuss risks.
 
 
 ##Main development
@@ -85,4 +86,20 @@ Colour patterns
 ##Risk assessment
 
 - Please read relevant local documentation about handling insects in school classrooms. Students should wash their hands after completing each experiment.
+
+In addition the following risks should be considered.
+
+- Pupils and teachers may experience an allergic reaction – contact with fur and feathers are known to induce an allergic reaction in some people.
+- Bites and stings from insects.
+- Animal welfare.
+
+Suitable control measures could include.
+
+- Identify any pupils with medical conditions, including those with respiratory problems and allergies.
+- Ensure inhalers are readily available.
+- Warn pupils about hand, eye and mouth contact when handling creatures.
+- Any pupil or adult with an open cut on their hands, with infected cuts or suffering from an infection, must not handle the animals or come into contact with them.
+- Collect small creatures for study using a pooter or a paintbrush to avoid harming them.
+- Return small invertebrates collected from the environment as soon as possible.
+- Pupils and adults must wash their hands after touching insects.
 

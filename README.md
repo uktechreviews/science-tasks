@@ -19,13 +19,10 @@
 
 ##Other tasks still to complete
 
-
 Fermentation of yeast (KS3 and 4)
 - rethink code and use of the SenseHat to record temperature of the water bath
 - add diagram and photos
 - add example data and charts
 
 Woodlice and maggots (KS3 and 4)
-- add diagram and photos
-- add example data and charts
-- update risk assessment
+- add photos
