@@ -36,11 +36,15 @@ Instructions using Google Sheets
 - Import the first set of results. The pipe symbol | has been used to separate each column of results.
 
 ![import1](images/import.png)
+![import2](images/imported.png)
 
+- Add column headings to your data.  Remember unless you asked the Raspberry Pi to wait one minute between the results the time wont necessarily be in minutes.
+
+![results](images/results.png)
 
 - Highlight your results and the time and select new chart
 
-![chart](images/chart.png)
+![chart](images/chart_editor.png)
 
 - Repeat this with each set of results you have obtained from testing different materials.
 
