@@ -1,10 +1,10 @@
 #Keeping baby warm
 
-In this lesson you are going to investigate how the colour of a surface affects the emitting of IR radiation.
+In this lesson you are going to investigate how good different materials are at preventing heat loss.
 
 ##Theory 
 
-Different colour surfaces emit different amounts of Infra Red radiation.  During this practical we will find out which colour surfaces emits the most radiation.
+Heat is lost from hot objects.  Sometimes we want to stop this heat being lost and we can use a material called an insulator.  In this investigation we will find out what types of materials make the best insulators and can be used to keep a new born baby warm.
 
 ##Experiment  
 
@@ -25,7 +25,7 @@ Different colour surfaces emit different amounts of Infra Red radiation.  During
 
 ##Extension
 
-Using a suitable spreadsheet import both sets of data and produce a line graph comparing both sets of results.  
+Using a suitable spreadsheet import your data and produce a line graph showing how the material cooled down.
 
 Instructions using Google Sheets
 
@@ -37,22 +37,12 @@ Instructions using Google Sheets
 
 ![import1](images/import.png)
 
-- Import the second set of results and again use the pipe symbol | to separate each column of results.  This time append the rows to the current sheet.
 
-![import2](images/import2.png)
-
-- You will now have two sets of results on the same sheet.  Copy and paste the second set of results and tidy up the column heading and remove rows no longer needed.
-
-![results1](images/results.png)
-![results2](images/new_results.png)
-
-- Highlight both sets of results and the time and select new chart
+- Highlight your results and the time and select new chart
 
 ![chart](images/chart.png)
 
-- You will now have a finished chart which you can now use to write a conclusion identifying which material warmed up the quickest and was the best at absorbing IR radiation.
-
-![chart2](images/final_graph.png)
+- Repeat this with each set of results you have obtained from testing different materials.
 
 Questions to think about
 
