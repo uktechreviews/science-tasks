@@ -19,8 +19,6 @@
 
 ##Other tasks still to complete
 
-Keeping baby warm (KS2)
-- update chart images for baby insulation practical, remove temporary data
 
 Fermentation of yeast (KS3 and 4)
 - rethink code and use of the SenseHat to record temperature of the water bath
