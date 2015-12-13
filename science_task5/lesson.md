@@ -45,12 +45,23 @@ From LXTerminal type: `sudo python3 fermentation.py` 
 ##Carrying out the experiment
 
 - Collect a 250 ml conical flask and ensure that you can fit a balloon over the opening.
+
+![set_up](images/ferm4.png)
+
 - Measure out 100 ml of apple juice and add a couple of heaped spatulas of sugar and mix well.
 - Add approximately 50 ml of freshly prepared yeast solution.
 - Attach the balloon to the conical flask and place in a water bath at 25 degrees centigrade
 - Start the python code 
 - Leave the flask in the water bath for the next hour
+- Mount the Raspberry Pi camera in a clamp stand.  In this example I have attached it to a drinking straw.
+
+![set_up](images/ferm1.png)
+
 - The Raspberry Pi will take a photo of the reaction mixture every 5 minutes for 1 hour
+
+![set_up](images/ferm3.png)
+![set_up](images/ferm4.png)
+
 - Open the folder called lesson-7 and copy all the photos onto a memory card into a folder ready for analysis later.
 - Copy the photos into a different folder on your memory stick
 - Repeat the experiment and increase the water bath to 30 degrees centigrade.

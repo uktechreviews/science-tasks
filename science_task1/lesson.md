@@ -49,27 +49,29 @@ In this lesson students will investigate the factors that affect the rate of che
 
 ##Carrying out the experiment
 
-1. Prepare a 1.0M solution of sodium thiosulphate and a 0.5,  1.0, 1.5 and 2.0M solution of hydrochloric acid. 
-1. If the students are going to investigate temperature they will need three water baths and a range of temperatures.
-1. Measure 20ml of sodium thiosulphate into a measuring cylinder. 
-1. Measure 20ml of hydrochloric acid into a second measuring cylinder.
-1. Run the python code and enter the concentration of the sodium thiosulphate solution.
-1. Enter the number of repeats you would like to do for this experiment.
-1. Enter a file name for this set of experiments.
-1. Place the conical flask on top of the Sense Hat and mix the two reacting solutions.  Either press the Enter key on the keyboard or the button on the Sense Hat.
-1. As soon as you can no longer see the cross press the button again.
-1. Prepare the next repeat and press the button again to start the next repeat.
-1. Repeat until all your repeats are completed and you get a message saying the experiment is completed.
-1. Depending on which variable you are investigating you should now repeat the steps again by changing the independent variable.
-
+- Prepare a 1.0M solution of sodium thiosulphate and a 0.5,  1.0, 1.5 and 2.0M solution of hydrochloric acid. 
 ![apparatus](images/rates_1.png)
+- If the students are going to investigate temperature they will need three water baths and a range of temperatures.
+- Measure 20ml of sodium thiosulphate into a measuring cylinder. 
 ![adding_thio](images/rates_2.png)
+- Measure 20ml of hydrochloric acid into a second measuring cylinder.
 ![measuring_HCl](images/rates_4.png)
+- Run the python code and enter the concentration of the sodium thiosulphate solution.
+- Enter the number of repeats you would like to do for this experiment.
+- Enter a file name for this set of experiments.
+- Place the conical flask on top of the Sense Hat and mix the two reacting solutions.  Either press the Enter key on the keyboard or the button on the Sense Hat.
 ![chemicals_added](images/rates_13.png)
 ![timer_started](images/rates_14.png)
 ![reaction_started](images/rates_15.png)
+- As soon as you can no longer see the cross press the button again.
 ![disappearing_cross](images/rates_18.png)
 ![reaction_over](images/rates_20.png)
+- Prepare the next repeat and press the button again to start the next repeat.
+- Repeat until all your repeats are completed and you get a message saying the experiment is completed.
+- Depending on which variable you are investigating you should now repeat the steps again by changing the independent variable.
+
+
+
 
 ##Analysis of the results
 

@@ -55,6 +55,7 @@ In this lesson students will investigate the
 1. Heat up water in a kettle and fill up the hot water bottle carefully ensuring than any air is released before screwing the lid on.
 1. Wrap a Raspberry Pi in a sandwich bag.
 1. Wrap the Raspberry Pi in black paper.
+![set_up](images/black.png)
 1. Start the code and enter a suitable filename for the results.
 1. Allow the Raspberry Pi and Sense Hat to warm up for approximately 10 minutes
 1. When instructed remove the heat source and rewrap the Pi
@@ -62,6 +63,7 @@ In this lesson students will investigate the
 1. Leave the Raspberry Pi and Sense Hat to cool down.
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
+![set_up](images/silver.png)
 
 Images to be inserted here.
 

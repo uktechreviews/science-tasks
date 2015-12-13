@@ -49,6 +49,9 @@ From LXTerminal type: `sudo python3 reaction_times.py` 
 
 - Enter your name when prompted on the screen.
 - Press the enter key or the button the Sense Hat when you are ready to start.
+
+![set_up](images/reaction_time.png)
+
 - The green traffic light will come on between 3 and 10 seconds.
 - As soon as you see the red traffic light appear either press the button on the Sense Hat or the enter key on the keyboard.
 - Your result will be logged.
