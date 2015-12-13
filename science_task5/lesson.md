@@ -86,4 +86,6 @@ From LXTerminal type: `sudo python3 fermentation.py` 
 
 ##Risk assessment
 
-- Yeast
+- Check with students to see if anyone is allergic to handling yeast.  
+- The alcohol produced during this fermentation practical must not be sampled under any circumstance.
+
