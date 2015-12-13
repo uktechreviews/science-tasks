@@ -70,7 +70,7 @@ Colour patterns
 
 ##Analysis of the results
 
-- Open the folder containing experiment 8.  There will be two photos taken with each experiment.
+- Open the folder containing science_task6.  There will be two photos taken with each experiment.
 - Produce a tally chart to count how many insects are in section from the photos.
 - Is there sufficient results to identify a clear pattern?
 

@@ -24,7 +24,7 @@ This reaction usually works best around 37 degrees centigrade.  This is a slow p
 
 ##Analysis of the results
 
-- Open the folder called lesson-7, there will be a timelapse series of photos for each temperature.
+- Open the folder called science_task5, there will be a timelapse series of photos for each temperature.
 - Using a ruler measure the maximum diameter of the balloon in each photo and record on a table. Each photo was taken with a 5 minute interval.
 - Plot a graph of balloon diameter against time for each temperature.
 
